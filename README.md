@@ -27,8 +27,7 @@ Sales Executive: 57
 Research Scientist: 47
 Sales Representative: 33
 Attrition vs. Years at Company
-
-## Breakdown of attrition based on employee tenure
+Breakdown of attrition based on employee tenure
 ## Technologies Used
 Power BI Desktop for data visualization
 HR Analytics Dataset for employee insights
